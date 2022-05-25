@@ -3,8 +3,8 @@
 Maker Media GmbH
 *** 
 
-# GeigerzählerMausefalle
-mit E-Mail-Alarm
+# Geigerzähler
+mit Batteriebetrieb, WLAN- und Smarthome-Anbindung und E-Mail-Alarm
 
 ### Dieser Geigerzähler checkt die Umgebung auf Beta- und Gammastrahlung und schlägt bei Überschreiten eines Grenzwerts Alarm.
 
